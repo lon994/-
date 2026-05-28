@@ -1,0 +1,6 @@
+{
+  "name": "Animated Eyes Animator & Exporter",
+  "description": "An interactive studio and framework exporter for animated eyes used in embedded projects (such as microcontrollers, wearable screens, and plush toy screens).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
